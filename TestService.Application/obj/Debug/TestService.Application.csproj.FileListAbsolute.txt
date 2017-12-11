@@ -1,0 +1,9 @@
+C:\Users\tufan.dayi\Desktop\TestService\TestService.Application\bin\Debug\TestService.Application.exe.config
+C:\Users\tufan.dayi\Desktop\TestService\TestService.Application\bin\Debug\TestService.Application.exe
+C:\Users\tufan.dayi\Desktop\TestService\TestService.Application\bin\Debug\TestService.Application.pdb
+C:\Users\tufan.dayi\Desktop\TestService\TestService.Application\bin\Debug\TestService.dll
+C:\Users\tufan.dayi\Desktop\TestService\TestService.Application\bin\Debug\TestService.pdb
+C:\Users\tufan.dayi\Desktop\TestService\TestService.Application\obj\Debug\TestService.Application.csprojResolveAssemblyReference.cache
+C:\Users\tufan.dayi\Desktop\TestService\TestService.Application\obj\Debug\TestService.Application.csproj.CoreCompileInputs.cache
+C:\Users\tufan.dayi\Desktop\TestService\TestService.Application\obj\Debug\TestService.Application.exe
+C:\Users\tufan.dayi\Desktop\TestService\TestService.Application\obj\Debug\TestService.Application.pdb

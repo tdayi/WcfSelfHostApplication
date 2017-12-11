@@ -1,0 +1,6 @@
+C:\Users\tufan.dayi\Desktop\TestService\TestService\bin\Debug\TestService.dll
+C:\Users\tufan.dayi\Desktop\TestService\TestService\bin\Debug\TestService.pdb
+C:\Users\tufan.dayi\Desktop\TestService\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
+C:\Users\tufan.dayi\Desktop\TestService\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+C:\Users\tufan.dayi\Desktop\TestService\TestService\obj\Debug\TestService.dll
+C:\Users\tufan.dayi\Desktop\TestService\TestService\obj\Debug\TestService.pdb
